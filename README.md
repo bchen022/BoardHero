@@ -40,4 +40,9 @@ The program files were written in Atmel Studios 6.1.
  * in charge of bit access and operation required for io.c 
  
 ##Schematic
+An outline of all the components:
 ![alt text](http://imgur.com/YaASjHF.png "Schematic")
+
+##Demo
+A YouTube video demonstration of the full project in action:
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/dPNF3gffw-8/sddefault.jpg)](https://www.youtube.com/watch?v=dPNF3gffw-8)
