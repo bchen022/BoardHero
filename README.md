@@ -28,3 +28,16 @@ The program files were written in Atmel Studios 6.1.
  * The player must press a button that corresponds to the note on screen when the note is on the second to bottom row. If the player presses any button before the note reaches or after it passes the second to bottom row, it will count as a miss. 
  * If the player reaches 5 misses, regardless of whether or not the song is completed, the player will lose the game. 
  * If the player can reach the end of the song before reaching 5 misses, they have completed the song, and their score will be displayed.
+
+##Source Files
+* io.h:
+ * contains all functions that are used for the LCD display
+* io.c:
+ * implements the files described in io.h to be used for the LCD display
+* timer.h:
+ * in charge of the synchSMS's timers
+* bit.h:
+ * in charge of bit access and operation required for io.c 
+ 
+##Schematic
+![alt text](http://imgur.com/YaASjHF.png "Schematic")
