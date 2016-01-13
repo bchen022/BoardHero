@@ -1,6 +1,8 @@
 # BoardHero
 ##Overview
-BoardHero is an embedded system project of a game similar to the popular video game, Guitar Hero, implemented in C. It utilizes:
+BoardHero is an embedded system project of a game similar to the popular video game, Guitar Hero, implemented in C. 
+
+It utilizes:
 * breadboard
 * buttons
 * wires
@@ -9,8 +11,9 @@ BoardHero is an embedded system project of a game similar to the popular video g
 * LCD display screen
 * dual color 8x8 LED matrix
 * shift register
-* ATmega1284 microcontroller. 
-The program files were written in Atmel Studios. 
+* ATmega1284 microcontroller
+
+The program files were written in Atmel Studios 6.1. 
 
 ##User Guide
 * Controls: There are 6 buttons, 2 along a top row and 4 along the bottom row. 
