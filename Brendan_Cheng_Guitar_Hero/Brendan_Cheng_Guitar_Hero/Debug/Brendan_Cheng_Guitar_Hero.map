@@ -1,0 +1,604 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+                              Brendan_Cheng_Guitar_Hero.o (__tablejump2__)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+                              Brendan_Cheng_Guitar_Hero.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+                              Brendan_Cheng_Guitar_Hero.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+menu_state          0x1               Brendan_Cheng_Guitar_Hero.o
+song_state          0x1               Brendan_Cheng_Guitar_Hero.o
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+ .text          0x00000000        0x0 Brendan_Cheng_Guitar_Hero.o
+ .bss           0x00000000        0x0 Brendan_Cheng_Guitar_Hero.o
+ .text.TimerOff
+                0x00000000        0x6 Brendan_Cheng_Guitar_Hero.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+LOAD Brendan_Cheng_Guitar_Hero.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51\libm.a
+END GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51\libc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xbee
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.menu_tick
+                0x0000008c       0x26 Brendan_Cheng_Guitar_Hero.o
+ *(.progmem*)
+                0x000000b2                . = ALIGN (0x2)
+                0x000000b2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000b2        0x0 linker stubs
+ *(.trampolines*)
+                0x000000b2                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000b2                __ctors_start = .
+ *(.ctors)
+                0x000000b2                __ctors_end = .
+                0x000000b2                __dtors_start = .
+ *(.dtors)
+                0x000000b2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000b2        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+                0x000000b2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000b2        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000be       0x1a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+                0x000000be                __do_copy_data
+ .init4         0x000000d8       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+                0x000000d8                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000e8        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+ *(.init9)
+ *(.text)
+ .text          0x000000ec        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+                0x000000ec                __vector_22
+                0x000000ec                __vector_28
+                0x000000ec                __vector_1
+                0x000000ec                __vector_32
+                0x000000ec                __vector_34
+                0x000000ec                __vector_24
+                0x000000ec                __vector_12
+                0x000000ec                __bad_interrupt
+                0x000000ec                __vector_6
+                0x000000ec                __vector_31
+                0x000000ec                __vector_3
+                0x000000ec                __vector_23
+                0x000000ec                __vector_30
+                0x000000ec                __vector_25
+                0x000000ec                __vector_11
+                0x000000ec                __vector_17
+                0x000000ec                __vector_19
+                0x000000ec                __vector_7
+                0x000000ec                __vector_27
+                0x000000ec                __vector_5
+                0x000000ec                __vector_33
+                0x000000ec                __vector_4
+                0x000000ec                __vector_9
+                0x000000ec                __vector_2
+                0x000000ec                __vector_21
+                0x000000ec                __vector_15
+                0x000000ec                __vector_29
+                0x000000ec                __vector_8
+                0x000000ec                __vector_26
+                0x000000ec                __vector_14
+                0x000000ec                __vector_10
+                0x000000ec                __vector_16
+                0x000000ec                __vector_18
+                0x000000ec                __vector_20
+                0x000000ee                . = ALIGN (0x2)
+ *(.text.*)
+ .text.delay_ms
+                0x000000ee       0x28 Brendan_Cheng_Guitar_Hero.o
+                0x000000ee                delay_ms
+ .text.LCD_WriteData
+                0x00000116       0x10 Brendan_Cheng_Guitar_Hero.o
+                0x00000116                LCD_WriteData
+ .text.LCD_WriteCommand
+                0x00000126       0x10 Brendan_Cheng_Guitar_Hero.o
+                0x00000126                LCD_WriteCommand
+ .text.LCD_Cursor
+                0x00000136        0xc Brendan_Cheng_Guitar_Hero.o
+                0x00000136                LCD_Cursor
+ .text.LCD_DisplayString_noclr
+                0x00000142       0x28 Brendan_Cheng_Guitar_Hero.o
+                0x00000142                LCD_DisplayString_noclr
+ .text.LCD_ClearScreen
+                0x0000016a        0x4 Brendan_Cheng_Guitar_Hero.o
+                0x0000016a                LCD_ClearScreen
+ .text.LCD_DisplayString
+                0x0000016e       0x2e Brendan_Cheng_Guitar_Hero.o
+                0x0000016e                LCD_DisplayString
+ .text.LCD_init
+                0x0000019c       0x1c Brendan_Cheng_Guitar_Hero.o
+                0x0000019c                LCD_init
+ .text.TimerSet
+                0x000001b8       0x22 Brendan_Cheng_Guitar_Hero.o
+                0x000001b8                TimerSet
+ .text.TimerOn  0x000001da       0x48 Brendan_Cheng_Guitar_Hero.o
+                0x000001da                TimerOn
+ .text.TimerISR
+                0x00000222        0x8 Brendan_Cheng_Guitar_Hero.o
+                0x00000222                TimerISR
+ .text.__vector_13
+                0x0000022a       0x9c Brendan_Cheng_Guitar_Hero.o
+                0x0000022a                __vector_13
+ .text.transmit_data
+                0x000002c6       0x34 Brendan_Cheng_Guitar_Hero.o
+                0x000002c6                transmit_data
+ .text.menu_tick
+                0x000002fa      0x320 Brendan_Cheng_Guitar_Hero.o
+                0x000002fa                menu_tick
+ .text.song_tick
+                0x0000061a      0x526 Brendan_Cheng_Guitar_Hero.o
+                0x0000061a                song_tick
+ .text.main     0x00000b40       0x9e Brendan_Cheng_Guitar_Hero.o
+                0x00000b40                main
+ .text.libgcc   0x00000bde        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+                0x00000bde                __tablejump2__
+                0x00000be2                __tablejump__
+                0x00000bea                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000bea        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+                0x00000bea                _exit
+                0x00000bea                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000bea        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000bee                _etext = .
+
+.data           0x00800100       0xde load address 0x00000bee
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+ .data          0x00800100        0x0 Brendan_Cheng_Guitar_Hero.o
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_tablejump.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_copy_data.o)
+ .data          0x00800100        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/avr51\libgcc.a(_clear_bss.o)
+ *(.data*)
+ .data.misses_message
+                0x00800100        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x00800100                misses_message
+ .data.score_message
+                0x00800102        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x00800102                score_message
+ .data.arr_notes_C
+                0x00800104        0xa Brendan_Cheng_Guitar_Hero.o
+                0x00800104                arr_notes_C
+ .data.arr_notes_B
+                0x0080010e        0xa Brendan_Cheng_Guitar_Hero.o
+                0x0080010e                arr_notes_B
+ .data.arr_notes_A
+                0x00800118        0xa Brendan_Cheng_Guitar_Hero.o
+                0x00800118                arr_notes_A
+ .data.arr      0x00800122        0x9 Brendan_Cheng_Guitar_Hero.o
+                0x00800122                arr
+ .data.third_song
+                0x0080012b        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x0080012b                third_song
+ .data.second_song
+                0x0080012d        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x0080012d                second_song
+ .data.first_song
+                0x0080012f        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x0080012f                first_song
+ .data.game_over_message
+                0x00800131        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x00800131                game_over_message
+ .data.congrats_message
+                0x00800133        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x00800133                congrats_message
+ .data.total_score_message
+                0x00800135        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x00800135                total_score_message
+ .data.start_screen
+                0x00800137        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x00800137                start_screen
+ .data.song_sel
+                0x00800139        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x00800139                song_sel
+ .data.character_arr4
+                0x0080013b        0x8 Brendan_Cheng_Guitar_Hero.o
+                0x0080013b                character_arr4
+ .data.character_arr3
+                0x00800143        0x8 Brendan_Cheng_Guitar_Hero.o
+                0x00800143                character_arr3
+ .data.character_arr2
+                0x0080014b        0x8 Brendan_Cheng_Guitar_Hero.o
+                0x0080014b                character_arr2
+ .data.character_arr
+                0x00800153        0x8 Brendan_Cheng_Guitar_Hero.o
+                0x00800153                character_arr
+ .data._avr_timer_M
+                0x0080015b        0x4 Brendan_Cheng_Guitar_Hero.o
+                0x0080015b                _avr_timer_M
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080015f       0x7e Brendan_Cheng_Guitar_Hero.o
+                                 0x86 (size before relaxing)
+ *(.gnu.linkonce.d*)
+                0x008001de                . = ALIGN (0x2)
+ *fill*         0x008001dd        0x1 
+                0x008001de                _edata = .
+                0x008001de                PROVIDE (__data_end, .)
+
+.bss            0x008001de       0x16
+                0x008001de                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.notes_speaker_count
+                0x008001de        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001de                notes_speaker_count
+ .bss.num_misses
+                0x008001df        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001df                num_misses
+ .bss.count_notes
+                0x008001e0        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e0                count_notes
+ .bss.count     0x008001e1        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e1                count
+ .bss.button4   0x008001e2        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e2                button4
+ .bss.button3   0x008001e3        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e3                button3
+ .bss.button2   0x008001e4        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e4                button2
+ .bss.button1   0x008001e5        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e5                button1
+ .bss.last_note_missed
+                0x008001e6        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e6                last_note_missed
+ .bss.song_on   0x008001e7        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e7                song_on
+ .bss.scroll_button
+                0x008001e8        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e8                scroll_button
+ .bss.start_button
+                0x008001e9        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001e9                start_button
+ .bss.total_score
+                0x008001ea        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001ea                total_score
+ .bss.game_finished
+                0x008001eb        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001eb                game_finished
+ .bss.song      0x008001ec        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001ec                song
+ .bss._avr_timer_cntcurr
+                0x008001ed        0x4 Brendan_Cheng_Guitar_Hero.o
+                0x008001ed                _avr_timer_cntcurr
+ .bss.TimerFlag
+                0x008001f1        0x1 Brendan_Cheng_Guitar_Hero.o
+                0x008001f1                TimerFlag
+ *(COMMON)
+ COMMON         0x008001f2        0x2 Brendan_Cheng_Guitar_Hero.o
+                0x008001f2                menu_state
+                0x008001f3                song_state
+                0x008001f4                PROVIDE (__bss_end, .)
+                0x00000bee                __data_load_start = LOADADDR (.data)
+                0x00000ccc                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001f4        0x0
+                0x008001f4                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001f4                PROVIDE (__noinit_end, .)
+                0x008001f4                _end = .
+                0x008001f4                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab           0x00000000      0x6cc
+ *(.stab)
+ .stab          0x00000000      0x6cc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+
+.stabstr        0x00000000       0x97
+ *(.stabstr)
+ .stabstr       0x00000000       0x97 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.2.1002/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.7.2/../../../../avr/lib/avr51/crtm1284.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2f
+ *(.comment)
+ .comment       0x00000000       0x2f Brendan_Cheng_Guitar_Hero.o
+                                 0x30 (size before relaxing)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xa0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0xa0 Brendan_Cheng_Guitar_Hero.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0xe32
+ *(.debug_info)
+ .debug_info    0x00000000      0xe32 Brendan_Cheng_Guitar_Hero.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x1e0
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1e0 Brendan_Cheng_Guitar_Hero.o
+
+.debug_line     0x00000000      0xc93
+ *(.debug_line)
+ .debug_line    0x00000000      0xc93 Brendan_Cheng_Guitar_Hero.o
+
+.debug_frame    0x00000000      0x18c
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x18c Brendan_Cheng_Guitar_Hero.o
+
+.debug_str      0x00000000      0x43f
+ *(.debug_str)
+ .debug_str     0x00000000      0x43f Brendan_Cheng_Guitar_Hero.o
+                                0x4ae (size before relaxing)
+
+.debug_loc      0x00000000      0x3d4
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x3d4 Brendan_Cheng_Guitar_Hero.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x90
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x90 Brendan_Cheng_Guitar_Hero.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(Brendan_Cheng_Guitar_Hero.elf elf32-avr)
+LOAD linker stubs
